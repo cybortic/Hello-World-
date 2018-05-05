@@ -1,2 +1,2 @@
 # hello-world
-A simple repository.
+A very simple HTML page with a somewhat funny twist.
